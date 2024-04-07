@@ -1,0 +1,135 @@
+{
+  "trips": [
+    {
+      "id": "f689",
+      "busHouseId": "2",
+      "startTime": "2024-04-01T19:29",
+      "fromStation": "ggg",
+      "toStation": "hhhh",
+      "station": "Mỹ Đình",
+      "seats": "2",
+      "price": "200000"
+    },
+    {
+      "busHouseId": "1",
+      "startTime": "2024-04-06T23:39",
+      "fromStation": "Nghệ An",
+      "toStation": "Hà Nội",
+      "station": "Nước ngầm",
+      "seats": "2",
+      "price": "250000",
+      "id": "wbYNL7H"
+    },
+    {
+      "busHouseId": "1",
+      "startTime": "2024-04-07T20:23",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng",
+      "station": "Nước ngầm",
+      "seats": "12",
+      "price": "1000000",
+      "id": "bwajh4c"
+    },
+    {
+      "busHouseId": "2",
+      "startTime": "2024-04-14T20:50",
+      "fromStation": "Cà Mau",
+      "toStation": "TP HCM",
+      "station": "Điền lắm",
+      "seats": "20",
+      "price": "200000",
+      "id": "_faoTcL"
+    },
+    {
+      "busHouseId": "3",
+      "startTime": "2024-04-07T20:52",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng",
+      "station": "Giáp bát",
+      "seats": "20",
+      "price": "1000000",
+      "id": "rfTlasB"
+    }
+  ],
+  "stations": [
+    {
+      "id": "1",
+      "name": "Bến xe Mỹ Đình",
+      "province": "Hà Nội"
+    },
+    {
+      "id": "2",
+      "name": "Bến xe Giáp Bát",
+      "province": "Hà Nội"
+    },
+    {
+      "id": "3",
+      "name": "Bến Vĩnh Niệm",
+      "province": "Hải Phòng"
+    },
+    {
+      "id": "4",
+      "name": "Bến xe Thượng Lý",
+      "province": "Hải Phòng"
+    }
+  ],
+  "busHouses": [
+    {
+      "id": "1",
+      "name": "Hải Phòng Travel (Đất Cảng)",
+      "adress": "Hải Phòng",
+      "phone": "0987654321"
+    },
+    {
+      "id": "2",
+      "name": "Hoàng Phú Limousine",
+      "adress": "Hải Phòng",
+      "phone": "0987654321"
+    },
+    {
+      "id": "3",
+      "name": "Anh Huy (Hải Phòng)",
+      "adress": "Hải Phòng",
+      "phone": "0987654321"
+    }
+  ],
+  "users": [
+    {
+      "email": "tk1@gmail.com",
+      "password": "$2a$10$W0fvo2BfvvcWvTmZA9qZteClwm1uPG7/COS8yOOYCc15S2Urkcdiq",
+      "id": 1
+    },
+    {
+      "email": "tk11@gmail.com",
+      "password": "$2a$10$harnFjE03Ws068UNa2HTG.bj61TIGIywCWlBlmspJEdAXBJ5V2rBa",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
